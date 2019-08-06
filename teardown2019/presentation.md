@@ -64,7 +64,7 @@ Project lead on CircuitPython for Adafruit
 # Code **+ Community**
 
 * Code of Conduct
-* Active community
+* Active community on Discord and GitHub
 * 150+ CircuitPython-compatible libraries
 * 60+ Supported boards
 
@@ -291,7 +291,7 @@ gb[0xff13] = 0b00010011
 * Reach out on our Discord chat: https://adafru.it/discord
 * Build your next hardware on one of our supported platforms
 * **or** help us bring CircuitPython to your favorite platform
-  * 32+ bit, 32k+ RAM, 256k+ flash
+  * 32+ bit, 32k+ RAM, 256k+ flash, USB
 
 ^ So, I hope this has gotten everyone excited about CircuitPython and how it can supercharge your hardware.
 
