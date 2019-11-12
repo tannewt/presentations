@@ -20,6 +20,10 @@ Freelance software engineer
 
 Project lead on CircuitPython for Adafruit
 
+2009 UW Grad in Computer Engineering
+
+Worked on Google Maps 2009 - 2015
+
 ![left](scott_with_blinka.jpg)
 
 ^ Hi, I'm Scott Shawcroft. I go by tannewt online. I'm the project lead on CircuitPython for Adafruit.
