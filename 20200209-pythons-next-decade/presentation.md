@@ -38,8 +38,6 @@
 
 ![inline](stackoverflow-top.png)
 
-
-
 ^ Ok, lets talk stats. Python is #4 in use according to StackOverflow 2019 and #2 in most loved! Does that matter? https://insights.stackoverflow.com/survey/2019#technology
 
 ---
@@ -87,11 +85,6 @@
 
 ---
 
-
-![inline](coders-0.31.png)
-
----
-
 ## 261,000,000 💻
 ## vs
 ## 1,524,838,000📱
@@ -132,7 +125,6 @@ https://youtu.be/407nwX6__70
 
 ---
 
-
 ![](jupyter.png)
 
 ^ Collab and Jupyter are doing very cool things. Bring prose-first, interactive computing to many programming languages including Python.
@@ -147,7 +139,7 @@ https://youtu.be/407nwX6__70
 
 ## What will Python **be** in 10 years?
 
-^ Today Python can, automate tasks, serve webpages, process tons of data and make an led blink. How many of those 5.1 billion phone users want to do these things? What will we be able to do with PYthon a decade from now?
+^ Today Python can, automate tasks, serve webpages, process tons of data and make an led blink. How many of those 5.1 billion phone users want to do these things? What will we be able to do with Python a decade from now?
 
 ---
 
@@ -177,9 +169,5 @@ https://youtu.be/407nwX6__70
 
 ---
 
-# Python's Next Decade and **Us**
-
----
-
-# Computing's ~~*Python's*~~ Next Decade and ~~*Us*~~ Everyone
+# Computing's ~~*Python's*~~ Next Decade and ~~*Us*~~ **Everyone**
 
