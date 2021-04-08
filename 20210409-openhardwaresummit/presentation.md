@@ -1,6 +1,7 @@
-# What. Not how.
+# Outside In
+## Better Interface Design
 
-## Scott (@tannewt)
+### Scott (@tannewt)
 
 ---
 
