@@ -144,6 +144,7 @@ choice
 
 # Things people have asked for:
 * numpy
+* f-strings
 * pandas
 * Jupyter
 * pdb
