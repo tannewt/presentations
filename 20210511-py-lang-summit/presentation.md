@@ -139,6 +139,13 @@ choice
 
 
 ```
+---
+
+# 1. The Python *feel* requires a small core.
+
+---
+
+# Smaller core means Python in more places.
 
 ---
 
@@ -149,14 +156,6 @@ choice
 * Jupyter
 * pdb
 * asyncio
-
----
-
-# 1. The Python *feel* requires a small core.
-
----
-
-# Smaller core means Python in more places.
 
 ---
 
