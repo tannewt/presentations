@@ -513,14 +513,6 @@ CIRCUITPY_WEB_API_PORT = 80
 
 ---
 
-# App source links
-
-- File Glider [iOS](https://github.com/adafruit/Glider-for-iOS) [Android](https://github.com/adafruit/Glider-for-Android)
-- BluefruitConnect [iOS](https://github.com/adafruit/Bluefruit_LE_Connect_v2) [Android](https://github.com/adafruit/Bluefruit_LE_Connect_Android)
-- PyLeap [iOS](https://github.com/adafruit/PyLeap-iOS) [Android](https://github.com/adafruit/PyLeap-Android)
-
----
-
 # Status
 
 | | USB | WiFi | BLE |
@@ -548,6 +540,14 @@ CIRCUITPY_WEB_API_PORT = 80
 - ❌None ⚠️Partial ✅Supported 🐛Bugs
 - 🧑‍💻API 💻Desktop 📱Mobile
 
+---
+
+# App source links
+
+- File Glider [iOS](https://github.com/adafruit/Glider-for-iOS) [Android](https://github.com/adafruit/Glider-for-Android)
+- BluefruitConnect [iOS](https://github.com/adafruit/Bluefruit_LE_Connect_v2) [Android](https://github.com/adafruit/Bluefruit_LE_Connect_Android)
+- PyLeap [iOS](https://github.com/adafruit/PyLeap-iOS) [Android](https://github.com/adafruit/PyLeap-Android)
+
 <!-- Call to action: wireless programming workflows require new tools. Help us build and refine them to make coding easy and accessible for all. -->
 
 ---
@@ -556,6 +556,7 @@ CIRCUITPY_WEB_API_PORT = 80
 
 - Antonio and Trevor for the mobile apps
 - Melissa for code.circuitpython.org
+- Liz for testing all of these
 
 ---
 
